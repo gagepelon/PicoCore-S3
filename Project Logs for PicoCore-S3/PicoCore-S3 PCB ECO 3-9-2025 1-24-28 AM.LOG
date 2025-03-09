@@ -1,0 +1,211 @@
+Removed Pin From Net: NetName=NetC4_1 Pin=C4-1
+Removed Pin From Net: NetName=GND Pin=C4-2
+Removed Pin From Net: NetName=+3V3 Pin=C5-1
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=NetANT1_S Pin=C9-1
+Removed Pin From Net: NetName=GND Pin=C9-2
+Removed Pin From Net: NetName=GND Pin=C10-2
+Removed Pin From Net: NetName=VBUS Pin=C12-1
+Removed Pin From Net: NetName=GND Pin=C12-2
+Removed Pin From Net: NetName=GND Pin=LED1-1
+Removed Pin From Net: NetName=GND Pin=LED2-1
+Removed Pin From Net: NetName=SCL Pin=R23-1
+Removed Pin From Net: NetName=+3V3F Pin=R23-2
+Removed Pin From Net: NetName=SDA Pin=R24-1
+Removed Pin From Net: NetName=+3V3F Pin=R24-2
+Removed Pin From Net: NetName=GND Pin=R29-1
+Removed Pin From Net: NetName=GND Pin=R30-1
+Removed Member From Class: ClassName=PicoCore-S3 Member=C12
+Removed Member From Class: ClassName=PicoCore-S3 Member=LED1
+Removed Member From Class: ClassName=PicoCore-S3 Member=LED2
+Removed Member From Class: ClassName=PicoCore-S3 Member=R23
+Removed Member From Class: ClassName=PicoCore-S3 Member=R24
+Removed Member From Class: ClassName=PicoCore-S3 Member=R29
+Removed Member From Class: ClassName=PicoCore-S3 Member=R30
+Change Footprint: Footprint Not Found CAP_0402_IPC
+Change Footprint: Footprint Not Found CAP_0402_IPC
+Change Footprint: Footprint Not Found CAP_0402_IPC
+Change Footprint: Footprint Not Found CAP_0402_IPC
+Change Footprint: Footprint Not Found CAP_0402_IPC
+Change Footprint: Footprint Not Found CAP_0402_IPC
+Change Footprint: Footprint Not Found CAP_0402_IPC
+Change Footprint: Footprint Not Found CAP_0402_IPC
+Change Footprint: Footprint Not Found RES_0402_IPC
+Change Footprint: Footprint Not Found RES_0402_IPC
+Change Footprint: Footprint Not Found RES_0402_IPC
+Change component parameters: Designator = "C1" ("C1"); Footprint = "CAP_0603_IPC"; UniqueID = "\OPAOQVMQ" ("\OPAOQVMQ")
+Change component parameters (AddParameter): Name = "Electrical Value"; Value = "10nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Methode Part Number"; Value = "18191XA86"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Height in mm"; Value = "0.55"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Primary Manufacturer"; Value = "TDK Corporation"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Primary Manufacturer Part Number"; Value = "CGA2B3X7R1H103K050BB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Qualification"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating1 Value"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ROHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature  Max C"; Value = "125"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature  Min C"; Value = "-55"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance %"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "CAP_0603_IPC"; UniqueID = "\LMUSVCVU" ("\LMUSVCVU")
+Change component parameters (AddParameter): Name = "Electrical Value"; Value = "10nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Methode Part Number"; Value = "18191XA86"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Height in mm"; Value = "0.55"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Primary Manufacturer"; Value = "TDK Corporation"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Primary Manufacturer Part Number"; Value = "CGA2B3X7R1H103K050BB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Qualification"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating1 Value"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ROHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature  Max C"; Value = "125"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature  Min C"; Value = "-55"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance %"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "CAP_0603_IPC"; UniqueID = "\VPEFGJRM" ("\VPEFGJRM")
+Change component parameters (AddParameter): Name = "Electrical Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Methode Part Number"; Value = "18191XA98"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Height in mm"; Value = "0.55"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Primary Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Primary Manufacturer Part Number"; Value = "GCM155R71H104KE02D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Qualification"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating1 Value"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ROHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature  Max C"; Value = "125"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature  Min C"; Value = "-55"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance %"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "CAP_0603_IPC"; UniqueID = "\CHLPVBXE" ("\CHLPVBXE")
+Change component parameters (AddParameter): Name = "Electrical Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Methode Part Number"; Value = "18191XA98"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Height in mm"; Value = "0.55"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Primary Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Primary Manufacturer Part Number"; Value = "GCM155R71H104KE02D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Qualification"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating1 Value"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ROHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature  Max C"; Value = "125"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature  Min C"; Value = "-55"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance %"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6" ("C6"); Footprint = "CAP_0603_IPC"; UniqueID = "\IFFNRMHF" ("\IFFNRMHF")
+Change component parameters (AddParameter): Name = "Electrical Value"; Value = "10nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Methode Part Number"; Value = "18191XA86"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Height in mm"; Value = "0.55"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Primary Manufacturer"; Value = "TDK Corporation"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Primary Manufacturer Part Number"; Value = "CGA2B3X7R1H103K050BB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Qualification"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating1 Value"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ROHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature  Max C"; Value = "125"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature  Min C"; Value = "-55"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance %"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8" ("C8"); Footprint = "CAP_0603_IPC"; UniqueID = "\CRZRTHON" ("\CRZRTHON")
+Change component parameters (AddParameter): Name = "Electrical Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Methode Part Number"; Value = "18191XA98"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Height in mm"; Value = "0.55"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Primary Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Primary Manufacturer Part Number"; Value = "GCM155R71H104KE02D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Qualification"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating1 Value"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ROHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature  Max C"; Value = "125"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature  Min C"; Value = "-55"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance %"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9" ("C9"); Footprint = "CAP_0603_IPC"; UniqueID = "\JEXTEDPO" ("\JEXTEDPO")
+Change component parameters (AddParameter): Name = "Electrical Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Methode Part Number"; Value = "18191XA98"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Height in mm"; Value = "0.55"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Primary Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Primary Manufacturer Part Number"; Value = "GCM155R71H104KE02D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Qualification"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating1 Value"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ROHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature  Max C"; Value = "125"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature  Min C"; Value = "-55"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance %"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10" ("C10"); Footprint = "CAP_0603_IPC"; UniqueID = "\LLBUORGE" ("\LLBUORGE")
+Change component parameters (AddParameter): Name = "Electrical Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Methode Part Number"; Value = "18191XA98"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Height in mm"; Value = "0.55"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Primary Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Primary Manufacturer Part Number"; Value = "GCM155R71H104KE02D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Qualification"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating1 Value"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ROHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature  Max C"; Value = "125"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature  Min C"; Value = "-55"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance %"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "RES_0603_IPC"; UniqueID = "\XAZOAQPZ" ("\XAZOAQPZ")
+Change component parameters (AddParameter): Name = "Electrical Value"; Value = "33 Ohms"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Methode Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Height in mm"; Value = "0.4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Primary Manufacturer"; Value = "KOA Speer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Primary Manufacturer Part Number"; Value = "RK73H1ETTP33R0F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Qualification"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating1 Value"; Value = "100 mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating2 Value"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ROHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature  Max C"; Value = "155"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature  Min C"; Value = "-55"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance %"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "RES_0603_IPC"; UniqueID = "\TQIJEQDB" ("\TQIJEQDB")
+Change component parameters (AddParameter): Name = "Electrical Value"; Value = "5.1 kOhms"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Methode Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Height in mm"; Value = "0.4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Primary Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Primary Manufacturer Part Number"; Value = "RC0402FR-075K1L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Qualification"; Value = "General purpose"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating1 Value"; Value = "62.5 mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating2 Value"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ROHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature  Max C"; Value = "155"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature  Min C"; Value = "-55"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance %"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7" ("R7"); Footprint = "RES_0603_IPC"; UniqueID = "\KODMQAEO" ("\KODMQAEO")
+Change component parameters (AddParameter): Name = "Electrical Value"; Value = "5.1 kOhms"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Methode Part Number"; Value = "TBD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Height in mm"; Value = "0.4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Primary Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Primary Manufacturer Part Number"; Value = "RC0402FR-075K1L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Qualification"; Value = "General purpose"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating1 Value"; Value = "62.5 mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating2 Value"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ROHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature  Max C"; Value = "155"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature  Min C"; Value = "-55"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance %"; Value = "±1%"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found CAP_0402_IPC
+Add Component: Footprint Not Found RES_0402_IPC
+Add Component: Footprint Not Found RES_0402_IPC
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=+3V3 Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=NetANT1_S Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Add Pin To Net: Unknown Pin: Pin C11-1
+Add Pin To Net: Unknown Pin: Pin C11-2
+Added Pin To Net: NetName=SCL Pin=R6-1
+Added Pin To Net: NetName=+3V3F Pin=R6-2
+Added Pin To Net: NetName=SDA Pin=R7-1
+Added Pin To Net: NetName=+3V3F Pin=R7-2
+Add Pin To Net: Unknown Pin: Pin R9-1
+Add Pin To Net: Unknown Pin: Pin R10-1
+Change Net Name : Old Net Name=NetC4_1 New Net Name=NetC4_2
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=NetC10_2 Pin=IC3-1
+Added Pin To Net: NetName=NetC10_2 Pin=L2-2
+Added Net: Name=NetC10_2
+Added Pin To Net: NetName=NetR9_2 Pin=USB-B5
+Added Net: Name=NetR9_2
+Added Pin To Net: NetName=NetR10_2 Pin=USB-A5
+Added Net: Name=NetR10_2
+Add Class Member: Failed to add class member : Component C11 CAP NP
+Add Class Member: Failed to add class member : Component R9 RES
+Add Class Member: Failed to add class member : Component R10 RES
