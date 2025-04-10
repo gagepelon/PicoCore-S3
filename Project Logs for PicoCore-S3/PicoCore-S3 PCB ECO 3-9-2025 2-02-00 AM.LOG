@@ -1,3 +1,0 @@
-Added Component: Designator=GND4(CASTELLATED PAD)
-Added Pin To Net: NetName=GND Pin=GND4-1
-Added Member To Class: ClassName=PicoCore-S3 Member=Component GND4 CASTELLATED PAD
